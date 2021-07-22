@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lukiahas1138 aka @npmitche
+- 👋 Hi, I’m @Lukiahas1138 aka [@npmitche](https://github.com/npmitche)
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning ARM asm
 
